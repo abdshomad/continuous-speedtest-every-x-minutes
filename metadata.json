@@ -1,0 +1,5 @@
+{
+  "name": "OmniSpeed - Continuous Network Monitor",
+  "description": "A high-performance internet speed monitoring dashboard that runs periodic tests every 10 minutes and provides AI-powered insights into network stability and performance trends.",
+  "requestFramePermissions": []
+}
